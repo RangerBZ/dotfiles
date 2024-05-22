@@ -1,0 +1,8 @@
+# no .a files
+*.[oa]
+
+# ignore the TODO files
+/TODO
+
+# ignore doc/notes.txt
+doc/*.txt
